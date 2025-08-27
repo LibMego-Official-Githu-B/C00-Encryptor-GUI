@@ -1,4 +1,4 @@
-# C00-Encryptor-GUI
+# C00-Hashing-Tool-GUI
 A GUI Version of C00 Encryptor
 
 ![Alt text](C00EP_Blueprint.png)
